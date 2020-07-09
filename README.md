@@ -4,42 +4,54 @@ _The intention is that each WG has its own GitHub repo under the [Open Mainframe
 
 # _Working group name_
 
-_Describe the purpose of the group in no more that 4-5 sentences._
+Open Mainframe Project COBOL Working Group
 
-_Goals are the distinct outcomes that is to be anticipated from the working group, serving as a method for validating activities._
+It is generally felt by those close to the technology and supporting environment that COBOL has a part to play in a digital future, building upon the success of the past and its vitality in the present. This is true in the mainframe world, where COBOL prevails, and in distributed environments where it has a greater usage than most realize. 
+Establishing a working group of COBOL thought leaders and exponents that aims to address misunderstanding about the technology and promote its continued usage, learning and discourse
 
 Goals of the WG are:
 
-1. _goal 1_
-2. ...
+1. Greatly increase COBOL’s exposure to the public, specifically the IT decision-makers who will directly affect how widely COBOL will be employed in the future; 
+2. Clearly describe why COBOL should return to the general college curriculum;
+3. Gather data and promote COBOL’s importance to the global economy;
+4..Provide avenues by which those seeking COBOL skills can acquire them.
+5. Establish a group of thought leaders and key persons in this space to act as global proponents and commentators on the language and its enduring value.
+
 
 _Non-goals are things that the working group are intentionally choosing not to do, the things not expected to change due to the working groups efforts, or the subject matter areas that the working groups doesn’t want to address at this time. _
 
 Non-goals of the WG are:
 
-1. _non goal 1_
-2. ...
+1. Develop a vendor or platform specific perspective of COBOL.
+2  Develop a preference for one platform over another.
 
-The TAC member sponsor of this working group is _TAC sponsor name_
+The TAC member sponsor of this working group is Len Santalucia.
 
 ## Deliverables
 
-_provide a list of planned deliverables, or links to the deliverables. A best practice is to have a directory named [deliverables](deliverables) in the repo for hosting and managing deliverables._
+Near term: an industry-wide roundtable with thought leaders in the COBOL space.
+Curricula for high schools, colleges, and universitites for teaching COBOL.
 
 ## Communication
 
 This WG communicates on the following channels:
 
 - _link to mailing list_
+https://lists.openmainframeproject.org/g/wg-cobol
+
 - _slack channel_
+https://app.slack.com/client/T1BAJVCTY/C01549LK4F8
+
 - _any other channels_
+https://developer.ibm.com/technologies/cobol/
 ...
 
 ## Meetings
 
-See the [Open Mainframe Project public calendar](https://lists.openmainframeproject.org/calendar). This WG meets _meeting day/time and frequency_. 
+See the [Open Mainframe Project public calendar](https://lists.openmainframeproject.org/calendar). This WG meets the fourth Thursday of every month. 
 
 _provide the Zoom/conference call details_
+https://zoom.us/j/97677598233 
 
 ## In-person meetings
 
